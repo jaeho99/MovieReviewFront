@@ -17,4 +17,6 @@ Mvp 그림? 모델 만들고
 React는 잘 몰라서 떠오르는게 없다
 
 D-day 목표가 없으니 하염없이 프로젝트가 늘어지는 것 같다.
-9월 6일까지 React와 Spring mvp 제품 구현을 목표로 공부와 프로젝트를 병행하기로 목표를 세웠다.
+
+11/19 ~ 11/20 Figma와 AI툴(HubSpot AI Website Generator)을 사용하여 프론트 디자인
+
